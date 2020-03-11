@@ -46,3 +46,13 @@ Text Domain:  accelerate-theme-child
 	color: #45ac9d;
 	text-transform: uppercase;
 }
+
+aside .case-study-sidebar {
+  float: left;
+  width: 300px;
+}
+
+div .case-study-images {
+  float: left;
+  width: 600px;
+}
